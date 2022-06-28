@@ -3,6 +3,7 @@
 Um por todos e todos por um banco de dados mega organizado com SQL!
 
 Para esse projeto foi utilizado o banco de dados MySQL versão 8.0;
+
 ---
 
 # 🗡️ Sumário
